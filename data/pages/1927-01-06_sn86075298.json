@@ -1,0 +1,26 @@
+{
+ "date": "1927-01-06",
+ "lccn": "sn86075298",
+ "title": "The Ronan pioneer (Ronan, Mont.), January 6, 1927",
+ "newspaper": "The Ronan pioneer",
+ "location": [
+  "montana",
+  "united states",
+  "lake",
+  "ronan"
+ ],
+ "item_url": "https://www.loc.gov/item/sn86075298/1927-01-06/ed-1/",
+ "page_url": "https://www.loc.gov/resource/sn86075298/1927-01-06/ed-1/?sp=1",
+ "iiif_base": "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ekalaka_ver01:data:sn86075298:00517178561:1927010601:0001",
+ "width": 4185,
+ "height": 5965,
+ "image_jpg": "https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ekalaka_ver01:data:sn86075298:00517178561:1927010601:0001/full/pct:25/0/default.jpg",
+ "pdf": "https://tile.loc.gov/storage-services/service/ndnp/mthi/batch_mthi_ekalaka_ver01/data/sn86075298/00517178561/1927010601/0001.pdf",
+ "ocr_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mthi/batch_mthi_ekalaka_ver01/data/sn86075298/00517178561/1927010601/0001.xml&format=alto_xml&full_text=1",
+ "rights": [
+  "<p>The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions.  Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted.  Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.</p>\n<p>The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image  \u2013 e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see <a href=\"https://www.loc.gov/ndnp/listawardees.html\">https://www.loc.gov/ndnp/listawardees.html</a>.</p>\n<p>For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see <a href=\"https://www.loc.gov/homepage/legal.html\">https://www.loc.gov/homepage/legal.html</a></p>"
+ ],
+ "contributor": [
+  "Montana Historical Society; Helena, MT"
+ ]
+}

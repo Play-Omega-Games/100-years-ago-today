@@ -1,0 +1,48 @@
+{
+ "wording": "supports practice toward",
+ "verified": "2026-11-24",
+ "codes": {
+  "D2.His.2.3-5": {
+   "framework": "C3",
+   "band": "3-5",
+   "text": "Compare life in specific historical time periods to life today.",
+   "source": "https://www.socialstudies.org/standards/c3"
+  },
+  "D2.His.2.6-8": {
+   "framework": "C3",
+   "band": "6-8",
+   "text": "Classify series of historical events and developments as examples of change and/or continuity.",
+   "source": "https://www.socialstudies.org/standards/c3"
+  },
+  "D2.His.10.3-5": {
+   "framework": "C3",
+   "band": "3-5",
+   "text": "Compare information provided by different historical sources about the past.",
+   "source": "https://www.socialstudies.org/standards/c3"
+  },
+  "D2.His.11.3-5": {
+   "framework": "C3",
+   "band": "3-5",
+   "text": "Infer the intended audience and purpose of a historical source from information within the source itself.",
+   "source": "https://www.socialstudies.org/standards/c3"
+  },
+  "RI.3.7": {
+   "framework": "CCSS-ELA",
+   "band": "3",
+   "text": "Use information gained from illustrations (e.g., maps, photographs) and the words in a text to demonstrate understanding of the text (e.g., where, when, why, and how key events occur).",
+   "source": "https://www.cde.ca.gov/be/st/ss/documents/finalelaccssstandards.pdf"
+  },
+  "RH.6-8.7": {
+   "framework": "CCSS-ELA",
+   "band": "6-8",
+   "text": "Integrate visual information (e.g., in charts, graphs, photographs, videos, or maps) with other information in print and digital texts.",
+   "source": "https://www.cde.ca.gov/be/st/ss/documents/finalelaccssstandards.pdf"
+  }
+ },
+ "activities": {
+  "then_vs_now": "Then vs now fact",
+  "what_next": "What happened next, from a later front page",
+  "who_was_it_for": "\"Who was this paper for?\" prompt (price, ads, place names)",
+  "picture_spots": "Spots that pair a photo, cartoon or ad with its words"
+ }
+}

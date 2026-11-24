@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/pages/*.jpg
+data/pages/*.txt
+data/issues/
+data/link-report.json
+live/
