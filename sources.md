@@ -53,7 +53,7 @@ Kinds: change (then vs now), continuity (still true today), what_next (what happ
 | Mon Dec 27, 1926 | The Winslow Mail, Winslow AZ | care | what_next | Lowell Observatory, Pluto: https://lowell.edu/discover/pluto/ |
 | Tue Dec 28, 1926 | The Pleasantville Press, Pleasantville NJ | care | continuity | City of Philadelphia Parks and Recreation, The Mummers Parade: A PPR Tradition: https://www.phila.gov/Newsletters/parksnrecsnewsletter/pdfs/Mummers.pdf |
 | Wed Dec 29, 1926 | Windham County Observer, Putnam CT | care | continuity | U.S. Office of Personnel Management, Federal Holidays: https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/ |
-| Thu Dec 30, 1926 | The Pocahontas Times, Marlinton WV | care | change | West Virginia Legislature, State Symbols: https://www.wvlegislature.gov/Educational/Kids_Page/symbols.cfm |
+| Thu Dec 30, 1926 | The Pocahontas Times, Marlinton WV | care | change | West Virginia State Museum Education, West Virginia State Symbols: https://wvstatemuseumed.wv.gov/site/state-symbols.html |
 | Fri Dec 31, 1926 | Milford Chronicle, Milford DE | care | change | Sussex County, Delaware, History of Sussex County: https://sussexcountyde.gov/history |
 | Sat Jan 1, 1927 | The McCarthy Weekly News, McCarthy AK | care | change | National Park Service, Bering Land Bridge: Alaska Natives and Early People: https://www.nps.gov/bela/learn/historyculture/alaska-natives-and-early-people.htm |
 | Sun Jan 2, 1927 | Nogales International, Nogales AZ | ok | continuity | Nobel Foundation, The Nobel Prize in Literature 1925: https://www.nobelprize.org/prizes/literature/1925/summary/ |
@@ -112,3 +112,4 @@ Wording is always "supports practice toward". Not a full curriculum and not accr
 - Steese Highway history (the BLM page did not match the claim).
 - Nogales rail line (Wikipedia; replaced by FHWA Interstate 19 route data).
 - A second Prohibition repeal fact on Jan 4 (would repeat Nov 27; replaced by EIA coal use).
+- Dec 30 source moved (Nov 24, 2026): the West Virginia Legislature kids' State Symbols page was down all day (TLS errors, 500, 504). The same fact (black bear adopted as state animal by House Concurrent Resolution No. 6 in 1973) is on the West Virginia State Museum Education page, verified 200.

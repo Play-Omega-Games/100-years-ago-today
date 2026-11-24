@@ -481,7 +481,7 @@ PAGES2 += [
    {"spot": "A list of births with dates", "where": "bottom, third column"},
    {"spot": "Someone wrote in pen across the top of this copy", "where": "top right corner"}],
   "then_vs_now": {"kind": "change", "text": "In 1926 a big bear was hunting news in Pocahontas County. In 1973 the West Virginia Legislature made the black bear the official state animal.",
-                  "source": "West Virginia Legislature, State Symbols", "url": "https://www.wvlegislature.gov/Educational/Kids_Page/symbols.cfm"},
+                  "source": "West Virginia State Museum Education, West Virginia State Symbols", "url": "https://wvstatemuseumed.wv.gov/site/state-symbols.html"},
   "question": "The paper prints a whole column just of births, weddings and visitors. What would a page like that look like for your street?"},
 ]
 ALTERNATES2 += [
@@ -568,7 +568,7 @@ ALTERNATES2 += [
 ]
 PAGES2 += [
  {"date": "1927-01-04", "lccn": "sn91064030", "paper": "The Pleasantville Press", "city": "Pleasantville", "state": "NJ", "family": "ok",
-  "family_note": "One headline is about Prohibition, the 1920s ban on selling alcohol. Easy to explain in a sentence.",
+  "family_note": "",
   "headlines": [
    {"text": "Spirit of Mainland Progress Shown in Inaugurals", "family": True},
    {"text": "Adequate Police and Fire Protection Urged by Jackson", "family": True},

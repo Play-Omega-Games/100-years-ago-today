@@ -19,6 +19,8 @@ check('3 to 5 spots each, each with a where', all(3 <= len(d['spots']) <= 5 and 
 check('at least 3 family-safe headlines each (1 for full-page pictures)', all(sum(h['family'] for h in d['headlines']) >= (1 if d['page_type'] == 'picture' else 3) for d in days))
 check('picture pages are rare (at most 1 in 10)', sum(d['page_type'] == 'picture' for d in days) * 10 <= len(days))
 check('family level valid; care has a note', all(d['family'] in ('ok', 'care') and (d['family'] != 'care' or d['family_note']) for d in days))
+check('ok pages have no family_note (it would never show)', all(d['family'] != 'ok' or not d['family_note'] for d in days))
+check('no wvlegislature.gov kids page (down)', 'wvlegislature.gov/Educational/Kids_Page' not in json.dumps(plan))
 check('family mode is 8 and up with a preview note', plan['family_mode']['ages'] == '8 and up' and 'preview' in plan['family_mode']['preview_note'])
 t = [d['then_vs_now'] for d in days]
 check('every then-vs-now has kind, text, source and https url', all(x['kind'] in ('change', 'continuity', 'what_next') and x['text'] and x['source'] and x['url'].startswith('https://') for x in t))
@@ -42,5 +44,6 @@ if all(os.path.exists(p) for p in skills):
     st = ''.join(open(p).read() for p in skills)
     check('skills have no em dashes', '\u2014' not in st)
     check('skills load from the Play-Omega-Games repo', 'raw.githubusercontent.com/Play-Omega-Games/100-years-ago-today/main/plans/front-pages.json' in st)
+    check('plan preview_note matches the getting-started skill exactly', '"' + plan['family_mode']['preview_note'] + '"' in st)
     check('skills say 8 and up, preview first and "when available"', '8 and up' in st and 'preview each page first' in st and 'when available' in st)
 print(f'\n{len(fails)} failed' if fails else '\nall passed'); sys.exit(1 if fails else 0)
